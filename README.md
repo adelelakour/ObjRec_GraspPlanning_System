@@ -1,1 +1,2 @@
 # ObjRec_GraspPlanning_System
+In my master's thesis project, the GraspPlanning module is designed to generate ten grasps for each model within the YCB object and model set. This process occurs offline using Simox toolbox. The generated grasping data is then saved into a JSON file for later retrieval. The ObjRec module, on the other hand, is tasked with identifying objects present within a scene. This algorithm is rooted in a traditional object recognition approach outlined in a paper titled "An Efficient RANSAC for 3D Object Recognition in Noisy and Occluded Scenes."
