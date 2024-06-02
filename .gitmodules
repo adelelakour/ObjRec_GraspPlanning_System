@@ -1,0 +1,6 @@
+[submodule "GraspPlanning"]
+	path = GraspPlanning
+	url = https://github.com/adelelakour/GraspPlanning.git
+[submodule "ObjRec"]
+	path = ObjRec
+	url = https://github.com/adelelakour/ObjRec.git
